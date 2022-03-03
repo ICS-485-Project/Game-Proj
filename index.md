@@ -1,4 +1,4 @@
-## Welcome to <Insert Group Name>'s Page
+## Welcome to [Insert Group Name]'s Page
 
 You can use the [editor on GitHub](https://github.com/ICS-485-Project/Game-Proj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
