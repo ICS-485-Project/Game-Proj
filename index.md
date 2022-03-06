@@ -3,7 +3,7 @@
 Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 [trello.com/ics485gameproj](https://trello.com/ics485gameproj)
 
-### Group Brainstorm ~
+## Group Brainstorm ~
 
 ### Seed/Hook
 - Combining abilities<br/>
@@ -55,7 +55,7 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 
 
-### Individual Brainstorms
+## Individual Brainstorms
 
 ### Tony's
 
