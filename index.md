@@ -2,6 +2,8 @@
 
 Owners are: Tony Long, Henry Blazier, Jake Hijirida.
 
+### Group Brainstorm ~
+
 ### Seed/Hook
 - Combining abilities<br/>
 - Combat based on movement<br/>
@@ -49,3 +51,11 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida.
 - Before each new room there is a boss
 
 ### Abilities
+
+
+
+### Individual Brainstorms
+
+### Tony's
+
+
