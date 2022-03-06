@@ -12,6 +12,7 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 - Platformer + 2D
 
 ### Emotion
+- Stressful
 - Suspense 
 - Happiness 
 - Satisfaction 
