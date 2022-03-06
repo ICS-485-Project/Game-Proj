@@ -1,6 +1,6 @@
 ## Welcome to [Insert Group Name]'s Page
 
-Owners are: Tony Long, Henry Blazier, Jake Hijirida.
+Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 [trello.com/ics485gameproj](https://trello.com/ics485gameproj)
 
 ### Group Brainstorm ~
