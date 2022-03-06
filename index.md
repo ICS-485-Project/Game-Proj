@@ -6,31 +6,31 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 ## Group Brainstorm ~
 
 ### Seed/Hook
-- Combining abilities<br/>
-- Combat based on movement<br/>
-- Different Classes(with different starting abilities)<br/>
-- Platformer + 2D<br/>
+- Combining abilities
+- Combat based on movement
+- Different Classes(with different starting abilities)
+- Platformer + 2D
 
 ### Emotion
-- Suspense <br/>
-- Happiness <br/>
-- Satisfaction <br/>
+- Suspense 
+- Happiness 
+- Satisfaction 
 
 ### Goals
-- Find and upgrade abilities <br/>
-- Beat the boss or maze <br/>
-- Test out interactions such as the combination of abilities <br/>
+- Find and upgrade abilities 
+- Beat the boss or maze 
+- Test out interactions such as the combination of abilities 
 
 #### Suspense
-- Timed <br/>
-- Limited health <br/>
-- Running out of lives = Gameover <br/>
-- Enemies chasing and shooting you <br/
+- Timed 
+- Limited health 
+- Running out of lives = Gameover 
+- Enemies chasing and shooting you 
 
 ### Obstacles
-- Traps <br/>
-- Terrain <br/>
-- Enemies <br/>
+- Traps 
+- Terrain 
+- Enemies 
 
 ### Interaction/Feedback
 - WASD for movement
