@@ -55,7 +55,7 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 
 
-## Individual Brainstorms
+## Individual Brainstorms ~
 
 ### Tony's
 
