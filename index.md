@@ -55,6 +55,10 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 ### Abilities
 
 
+### build 1 video
+
+[![Cube Space build 1](cubespacebuild1.jpg)](https://www.youtube.com/watch?v=ke7FEY4zpdI)
+
 
 ## Individual Brainstorms ~
 
