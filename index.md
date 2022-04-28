@@ -1,4 +1,4 @@
-## Welcome to [Insert Group Name]'s Page
+## Welcome to Cube Space's Page
 
 Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 [trello.com/ics485gameproj](https://trello.com/ics485gameproj)
@@ -6,9 +6,8 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 ## Group Brainstorm ~
 
 ### Seed/Hook
-- Combining abilities
-- Combat based on movement
-- Different Classes(with different starting abilities)
+- fun movement
+- gravity based platformer
 - Platformer + 2D
 
 ### Emotion
@@ -18,15 +17,11 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 - Satisfaction 
 
 ### Goals
-- Find and upgrade abilities 
-- Beat the boss or maze 
-- Test out interactions such as the combination of abilities 
+- reach the end of the level without suffocating
+- try to get faster each time
 
 #### Suspense
-- Timed 
-- Limited health 
-- Running out of lives = Gameover 
-- Enemies chasing and shooting you 
+- limited time to finish the level
 
 ### Obstacles
 - Traps 
@@ -41,10 +36,9 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 ### Rules
 - Don't die
 - Finish the level as fast as possible
-- New abilities work with current abilities
 
 ### Rewards
-- More abilities available
+- the satisfaction of completing the level
 - Gaining health back
 
 ### Levels
@@ -56,7 +50,7 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 
 ### build 1 video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ke7FEY4zpdI/0.jpg)](https://www.youtube.com/watch?v=ke7FEY4zpdI)
+[![build1](https://img.youtube.com/vi/ke7FEY4zpdI/0.jpg)](https://www.youtube.com/watch?v=ke7FEY4zpdI)
 
 
 ## Individual Brainstorms ~
