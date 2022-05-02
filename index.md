@@ -54,7 +54,10 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 [![build1](https://img.youtube.com/vi/ke7FEY4zpdI/0.jpg)](https://www.youtube.com/watch?v=ke7FEY4zpdI)
 
 Link to demo:
+
 [https://simmer.io/@hbzxc/cube-space-build-1](https://simmer.io/@hbzxc/cube-space-build-1)
+
+[https://simmer.io/@hbzxc/cube-space-build-2](https://simmer.io/@hbzxc/cube-space-build-2)
 
 
 ## Individual Brainstorms ~
