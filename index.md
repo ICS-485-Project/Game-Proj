@@ -27,11 +27,13 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 - Traps 
 - Terrain 
 - Enemies 
+- Turrets
 
 ### Interaction/Feedback
-- WASD for movement
+- A D for left and right movement
 - 1 button for jumping
-- 1 button for shooting
+- W for jumping
+- left click for gravity switching
 
 ### Rules
 - Don't die
@@ -39,12 +41,12 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 ### Rewards
 - the satisfaction of completing the level
-- Gaining health back
+- Solving a frustrating level
 
 ### Levels
-- Branching paths, one movement based path and one fighting based path
-- All rooms lead to new floor
-- Before each new room there is a boss
+- Navigate level until the end without dying
+- Reaching the end starts a harder level
+- Each level have different obstacles
 
 ### Abilities
 
