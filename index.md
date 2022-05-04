@@ -48,8 +48,16 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 - Reaching the end starts a harder level
 - Each level have different obstacles
 
-### Abilities
+### Assets
 
+#### Turret
+<img width="400px" src="turret.JPG">
+
+#### Background
+<img width="600px" src="background.jpg">
+
+#### Enemy
+<img width="600px" src="monster.JPG">
 
 ## Build 1 Video
 
