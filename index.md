@@ -54,10 +54,10 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 <img width="400px" src="turret.JPG">
 
 #### Background
-<img width="600px" src="background.jpg">
+<img width="400px" src="background.JPG">
 
 #### Enemy
-<img width="600px" src="monster.JPG">
+<img width="400px" src="monster.JPG">
 
 ## Build 1 Video
 
