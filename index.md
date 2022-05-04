@@ -31,7 +31,6 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 ### Interaction/Feedback
 - A D for left and right movement
-- 1 button for jumping
 - W for jumping
 - left click for gravity switching
 
