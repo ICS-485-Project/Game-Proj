@@ -64,7 +64,15 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 ## Build 2 Video
 
+[![build2](https://img.youtube.com/vi/ke7FEY4zpdI/0.jpg)](https://www.youtube.com/watch?v=6T0EyPFc5sY)
+
+## Build 3 Video
+
+[![build3](https://img.youtube.com/vi/ke7FEY4zpdI/0.jpg)](https://www.youtube.com/watch?v=VmzZIF7CDxE)
+
 ## Final Build Video
+
+
 
 ## Link to demos:
 
