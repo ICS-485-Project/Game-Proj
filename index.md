@@ -89,3 +89,14 @@ Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 
 <img width="600px" src="tonyBrainstorm.PNG">
 
+### Henry's
+These are not exclusively my ideas.
+We used my board to make tweaks and bring all of our ideas together.
+I dont have a copy of the original board.
+
+<img width="600px" src="henryBrainstorm.PNG">
+
+### Jake's
+
+<img width="600px" src="jakeBrainstorm.PNG">
+
