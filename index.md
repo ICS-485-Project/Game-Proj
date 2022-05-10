@@ -3,6 +3,8 @@
 Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 [trello.com/ics485gameproj](https://trello.com/ics485gameproj)
 
+Cube Space is a challenging platform game that puts players focus, speed, and imagination to work. With a Space theme and gravity ability, users will hacve to traverse the course, avoiding enemy turrets and electrical surfaces, all the while escaping the killer robot that is always just a few steps behind.  
+
 ## Group Brainstorm ~
 
 ### Seed/Hook
