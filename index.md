@@ -7,12 +7,12 @@ Cube Space is a challenging platform game that puts players focus, speed, and im
 
 Initially, our game idea was a 2D platformer that was a combat/puzzle game and would allow the user traverse different paths in order to gain classes/abilities. Due to the time constraint we knew that we had to do a lot of simplificaiton but wanted to maintain the suspenseful feeling throughout the game along with the happiness and satisfaction of beating a level. Instead of making a long winding game, we switched courses and did some fine tuning, we decided on one ability the player would have access to which is the gravity switch which would be utilized in creating a puzzle like experience with the manipulation of certain blocks and player movement to reach the end of the level.  
 
-## Group Brainstorm ~
+## Final Group Brainstorm/Board ~
 
 ### Seed/Hook
-- fun movement
-- gravity based platformer
-- Platformer + 2D
+- Fun Movement
+- Gravity based Platformer
+- Skill based Platformer + 2D
 
 ### Emotion
 - Stressful
@@ -21,11 +21,13 @@ Initially, our game idea was a 2D platformer that was a combat/puzzle game and w
 - Satisfaction 
 
 ### Goals
-- reach the end of the level without suffocating
+- reach the end of the level avoiding electric blocks and escaping the enemy chasing you
 - try to get faster each time
+- find new strategies using gravity mechanic
 
 #### Suspense
 - limited time to finish the level
+- enemy AI chasing you, keeps player progressing through the level
 
 ### Obstacles
 - Traps 
@@ -39,7 +41,8 @@ Initially, our game idea was a 2D platformer that was a combat/puzzle game and w
 - left click for gravity switching
 
 ### Rules
-- Don't die
+- Don't hit the electical blocks
+- Don't get caught by the enemy AI
 - Finish the level as fast as possible
 
 ### Rewards
@@ -49,7 +52,7 @@ Initially, our game idea was a 2D platformer that was a combat/puzzle game and w
 ### Levels
 - Navigate level until the end without dying
 - Reaching the end starts a harder level
-- Each level have different obstacles
+- Each level has different obstacles
 
 ### Assets
 
@@ -96,7 +99,6 @@ Initially, our game idea was a 2D platformer that was a combat/puzzle game and w
 ### Henry's
 These are not exclusively my ideas.
 We used my board to make tweaks and bring all of our ideas together.
-I dont have a copy of the original board.
 
 <img width="600px" src="henryBrainstorm.PNG">
 
