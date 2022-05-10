@@ -3,7 +3,9 @@
 Owners are: Tony Long, Henry Blazier, Jake Hijirida. <br/>
 [trello.com/ics485gameproj](https://trello.com/ics485gameproj)
 
-Cube Space is a challenging platform game that puts players focus, speed, and imagination to work. With a Space theme and gravity ability, users will hacve to traverse the course, avoiding enemy turrets and electrical surfaces, all the while escaping the killer robot that is always just a few steps behind.  
+Cube Space is a challenging platform game that puts players focus, speed, and imagination to work. With a Space theme and gravity ability, users will have to traverse the course, avoiding enemy turrets and electrical surfaces, all the while escaping the killer robot that is always just a few steps behind.  
+
+Initially, our game idea was a 2D platformer that was a combat/puzzle game and would allow the user traverse different paths in order to gain classes/abilities. Due to the time constraint we knew that we had to do a lot of simplificaiton but wanted to maintain the suspensful feeling throughout the game and the happiness/satisfaction of beating a level. Instead of making a long winding game, we switched courses and did some fine tuning, we decided on one ability the player would have access to which is the gravity switch which would be utilized in creating a puzzle like experience with the manipulation of certain blocks and player movement. 
 
 ## Group Brainstorm ~
 
